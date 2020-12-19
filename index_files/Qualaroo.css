@@ -18655,3 +18655,7 @@ nonexistent file
         font-size:14px !important;
         line-height: 22px !important
 }
+
+tr td {
+    color: #000;
+}
